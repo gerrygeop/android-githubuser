@@ -1,0 +1,25 @@
+<resources>
+
+    <string name="app_name">Github User</string>
+    <string name="title_home">Home</string>
+    <string name="title_favorite">Favorite</string>
+    <string name="search">Search</string>
+    <string name="change_language">Change Language</string>
+    <string name="reminder_setting">Reminder</string>
+
+    <string name="github_user">Github User</string>
+    <string name="detail_user">Detail User</string>
+    <string name="tab_text_1">Follower</string>
+    <string name="tab_text_2">Following</string>
+    <string name="following">Following</string>
+    <string name="follower">Follower</string>
+    <string name="username">Username</string>
+    <string name="name">Name</string>
+    <string name="company">Company</string>
+    <string name="location">Location</string>
+    <string name="repository">Repository</string>
+    <string name="add_favorite">Add to Favorite</string>
+    <string name="delete_favorite">Delete from Favorite</string>
+    <string name="avatar">Avatar</string>
+
+</resources>
